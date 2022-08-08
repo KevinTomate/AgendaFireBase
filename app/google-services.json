@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294604241482",
+    "project_id": "miproyecto-42f97",
+    "storage_bucket": "miproyecto-42f97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294604241482:android:b07e25bc09df8e261904b3",
+        "android_client_info": {
+          "package_name": "com.example.agendafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294604241482-2cpo20jcnadsviobh1rso93vquuc3ucv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agendafirebase",
+            "certificate_hash": "e430f13ec83baedec2c15cda4bef0c4720515f47"
+          }
+        },
+        {
+          "client_id": "294604241482-p25rhm3pn8cqdrvor8gnlttilcp240m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGq25seP6iuSIh9wEKIS3CQtLsQmmrOm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294604241482-p25rhm3pn8cqdrvor8gnlttilcp240m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
