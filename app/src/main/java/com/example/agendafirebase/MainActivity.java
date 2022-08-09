@@ -133,7 +133,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void actualizarContacto(String id, Contactos p){
-        // Actualizar un objeto al nodo referencia
+
         p.set_ID(id);
         referencia.child(String.valueOf(id)).setValue(p);
     }

@@ -35,7 +35,7 @@
                 android:text="Correo: "
                 android:textSize="23dp"
                 android:textStyle="bold"
-                android:textColor="@color/black">
+                android:textColor="@color/white">
             </TextView>
             <EditText
                 android:id="@+id/txtCorreo"
@@ -59,7 +59,7 @@
                 android:text="Contraseña: "
                 android:textSize="23dp"
                 android:textStyle="bold"
-                android:textColor="@color/black">
+                android:textColor="@color/white">
             </TextView>
             <EditText
                 android:id="@+id/txtPass"
@@ -85,6 +85,8 @@
                 android:id="@+id/btnIngresar"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:backgroundTint="#0277BD"
+                app:cornerRadius="50dp"
                 android:text="Ingresar"
                 android:gravity="center">
             </Button>
